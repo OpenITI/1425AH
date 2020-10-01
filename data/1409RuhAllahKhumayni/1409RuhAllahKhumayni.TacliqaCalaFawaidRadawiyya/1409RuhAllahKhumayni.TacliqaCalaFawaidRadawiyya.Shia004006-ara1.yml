@@ -12,5 +12,6 @@
     stylistic and other analysis the text should be broken down and split
     into original and commentary. In order to make it easier, I have marked
     the beginning of the quotations as level three subheadings.
+	The headers on the pages (such as توضيح الخبر) are also inserted into the text. They should be deleted. 
 90#VERS#DATE#####: 2020-06-07
-90#VERS#ISSUES###: EDITORIAL_SECTIONS, NO_MAJOR_ISSUES
+90#VERS#ISSUES###: EDITORIAL_SECTIONS,  TEXT_QUALITY
