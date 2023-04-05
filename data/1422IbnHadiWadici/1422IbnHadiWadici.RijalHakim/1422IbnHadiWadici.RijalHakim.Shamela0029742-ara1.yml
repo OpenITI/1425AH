@@ -1,14 +1,10 @@
 00#VERS#CLENGTH##: 552613
 00#VERS#LENGTH###: 143130
 00#VERS#URI######: 1422IbnHadiWadici.RijalHakim.Shamela0029742-ara1
-80#VERS#BASED####: permalink, permalink, permalink
-80#VERS#COLLATED#: permalink, permalink, permalink
-80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
-90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+80#VERS#BASED####: https://worldcat.org/en/title/956946490
+80#VERS#COLLATED#: https://worldcat.org/en/title/956946490
+80#VERS#LINKS####: https://archive.org/details/alfirdwsiy2018_gmail_0776
+90#VERS#ANNOTATOR: HRH
+90#VERS#COMMENT##: I didn't delete the introduction since this is a modern publication and the introduction is written by the author himself. 2- The text seems to be typed a little carelessly. I see some missing pages (like PageV01P295-6 or PageV01P313-4). 
+90#VERS#DATE#####: 2023-04-05
+90#VERS#ISSUES###: NO_MAJOR_ISSUES
