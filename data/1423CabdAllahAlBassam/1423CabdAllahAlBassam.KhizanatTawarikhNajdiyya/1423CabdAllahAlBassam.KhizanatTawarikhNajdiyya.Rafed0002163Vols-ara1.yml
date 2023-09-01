@@ -5,7 +5,10 @@
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: https://archive.org/details/tawarikh-najdiya/tawarikh-najdiya-0/mode/1up
 90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: HRH: I started tagging this text, but dropped it since it was not quite relevant to EIS project. It seems to be 
+        use consistently)
+90#VERS#COMMENT##: HRH: I started tagging this text, but dropped it since it was not quite relevant to EIS project. It seems to be
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION

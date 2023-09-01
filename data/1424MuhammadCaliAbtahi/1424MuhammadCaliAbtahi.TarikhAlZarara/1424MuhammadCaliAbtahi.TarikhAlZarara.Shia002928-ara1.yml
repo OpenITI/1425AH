@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://eliteraturebook.com/books/view/12566/تاریخ+آل+زراره
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The text did not have automatic tags. All the tags are inserted manually. 2- The author name in the METADATA is wrong. It must be “MuhammadCaliAbtahi”. 3- The PARATEXT at the end of the text is written by the author himself. I’m not sure if this is considered PARATEXT or not.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-08-27
-90#VERS#ISSUES###: EDITORIAL_SECTIONS, PARATEXT
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PARATEXT, PRIMARY_VERSION, CLEANED_VERSION
