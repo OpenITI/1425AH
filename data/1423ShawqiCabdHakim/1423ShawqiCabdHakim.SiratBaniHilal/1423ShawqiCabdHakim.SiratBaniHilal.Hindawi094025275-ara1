@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423ShawqiCabdHakim.SiratBaniHilal.Hindawi94025275",
-    "BookCats": "literature",
-    "BookID": "94025275",
-    "BookTitle": "سيرة بني هلال",
-    "AuthorID": "25792509",
-    "AuthorNam": "شوقي عبد الحكيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423ShawqiCabdHakim.SiratBaniHilal.Hindawi94025275
+#META# Tags: literature
+#META# ID: 94025275
+#META# Title: سيرة بني هلال
+#META# AuthorID: 25792509
+#META# Author: شوقي عبد الحكيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

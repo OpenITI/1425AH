@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.KhuyutWahiya.Hindawi64927073",
-    "BookCats": "novels",
-    "BookID": "64927073",
-    "BookTitle": "خيوط واهية",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.KhuyutWahiya.Hindawi64927073
+#META# Tags: novels
+#META# ID: 64927073
+#META# Title: خيوط واهية
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

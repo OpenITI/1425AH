@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1418AminSalama.HecubaWaOrestes.Hindawi46158086",
-    "BookCats": "plays",
-    "BookID": "46158086",
-    "BookTitle": "هيكوبا وأوريستيس",
-    "AuthorID": "16952470",
-    "AuthorNam": "أمين سلامة #جمع وترجمة#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "0001Euripides (TRANSL)"
-}
-
+#META# URI: 1418AminSalama.HecubaWaOrestes.Hindawi46158086
+#META# Tags: plays
+#META# ID: 46158086
+#META# Title: هيكوبا وأوريستيس
+#META# AuthorID: 16952470
+#META# Author: أمين سلامة #جمع وترجمة#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: 0001Euripides (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.ShucacMinAmal.Hindawi81730979",
-    "BookCats": "novels",
-    "BookID": "81730979",
-    "BookTitle": "شعاع من الأمل",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.ShucacMinAmal.Hindawi81730979
+#META# Tags: novels
+#META# ID: 81730979
+#META# Title: شعاع من الأمل
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

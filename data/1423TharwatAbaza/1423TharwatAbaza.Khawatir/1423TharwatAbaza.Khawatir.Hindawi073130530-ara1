@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.Khawatir.Hindawi73130530",
-    "BookCats": "literature",
-    "BookID": "73130530",
-    "BookTitle": "خواطر ثروت أباظة",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.Khawatir.Hindawi73130530
+#META# Tags: literature
+#META# ID: 73130530
+#META# Title: خواطر ثروت أباظة
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

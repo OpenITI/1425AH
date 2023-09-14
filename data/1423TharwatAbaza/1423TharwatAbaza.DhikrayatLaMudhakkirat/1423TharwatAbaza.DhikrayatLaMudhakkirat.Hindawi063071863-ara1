@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.DhikrayatLaMudhakkirat.Hindawi63071863",
-    "BookCats": "biographies",
-    "BookID": "63071863",
-    "BookTitle": "ذكريات لا مذكرات",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.DhikrayatLaMudhakkirat.Hindawi63071863
+#META# Tags: biographies
+#META# ID: 63071863
+#META# Title: ذكريات لا مذكرات
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

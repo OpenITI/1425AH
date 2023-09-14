@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.Ghufran.Hindawi41408491",
-    "BookCats": "novels",
-    "BookID": "41408491",
-    "BookTitle": "الغفران",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.Ghufran.Hindawi41408491
+#META# Tags: novels
+#META# ID: 41408491
+#META# Title: الغفران
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

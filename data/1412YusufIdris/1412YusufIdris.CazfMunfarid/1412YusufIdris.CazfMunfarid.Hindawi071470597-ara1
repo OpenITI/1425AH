@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1412YusufIdris.CazfMunfarid.Hindawi71470597",
-    "BookCats": "politics",
-    "BookID": "71470597",
-    "BookTitle": "عزف منفرد: دراسات ومقالات",
-    "AuthorID": "95064085",
-    "AuthorNam": "يوسف إدريس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1412YusufIdris.CazfMunfarid.Hindawi71470597
+#META# Tags: politics
+#META# ID: 71470597
+#META# Title: عزف منفرد: دراسات ومقالات
+#META# AuthorID: 95064085
+#META# Author: يوسف إدريس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

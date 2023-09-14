@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423ShawqiCabdHakim.SiratMulukTabacina.Hindawi42740640",
-    "BookCats": "literature",
-    "BookID": "42740640",
-    "BookTitle": "سيرة الملوك التَّبَاعِنَة: في ثلاثين فصلًا",
-    "AuthorID": "25792509",
-    "AuthorNam": "شوقي عبد الحكيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423ShawqiCabdHakim.SiratMulukTabacina.Hindawi42740640
+#META# Tags: literature
+#META# ID: 42740640
+#META# Title: سيرة الملوك التَّبَاعِنَة: في ثلاثين فصلًا
+#META# AuthorID: 25792509
+#META# Author: شوقي عبد الحكيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

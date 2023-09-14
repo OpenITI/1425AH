@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1414ZakiNajibMahmud.SharqFannan.Hindawi51637207",
-    "BookCats": "philosophy",
-    "BookID": "51637207",
-    "BookTitle": "الشرق الفنان",
-    "AuthorID": "64904748",
-    "AuthorNam": "زكي نجيب محمود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1414ZakiNajibMahmud.SharqFannan.Hindawi51637207
+#META# Tags: philosophy
+#META# ID: 51637207
+#META# Title: الشرق الفنان
+#META# AuthorID: 64904748
+#META# Author: زكي نجيب محمود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1412YusufIdris.MadinatMalaika.Hindawi75730581",
-    "BookCats": "arts",
-    "BookID": "75730581",
-    "BookTitle": "مدينة الملائكة",
-    "AuthorID": "95064085",
-    "AuthorNam": "يوسف إدريس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1412YusufIdris.MadinatMalaika.Hindawi75730581
+#META# Tags: arts
+#META# ID: 75730581
+#META# Title: مدينة الملائكة
+#META# AuthorID: 95064085
+#META# Author: يوسف إدريس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

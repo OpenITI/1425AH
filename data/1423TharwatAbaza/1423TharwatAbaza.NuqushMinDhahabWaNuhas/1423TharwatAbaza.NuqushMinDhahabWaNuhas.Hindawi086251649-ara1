@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.NuqushMinDhahabWaNuhas.Hindawi86251649",
-    "BookCats": "novels",
-    "BookID": "86251649",
-    "BookTitle": "نقوش من ذهب ونحاس",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.NuqushMinDhahabWaNuhas.Hindawi86251649
+#META# Tags: novels
+#META# ID: 86251649
+#META# Title: نقوش من ذهب ونحاس
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423ShawqiCabdHakim.MadkhalLiDirasatFulklur.Hindawi74636907",
-    "BookCats": "social.sciences",
-    "BookID": "74636907",
-    "BookTitle": "مدخل لدراسة الفولكلور والأساطير العربية",
-    "AuthorID": "25792509",
-    "AuthorNam": "شوقي عبد الحكيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423ShawqiCabdHakim.MadkhalLiDirasatFulklur.Hindawi74636907
+#META# Tags: social.sciences
+#META# ID: 74636907
+#META# Title: مدخل لدراسة الفولكلور والأساطير العربية
+#META# AuthorID: 25792509
+#META# Author: شوقي عبد الحكيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

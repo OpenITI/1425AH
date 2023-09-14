@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1414ZakiNajibMahmud.JannatCabit.Hindawi96404636",
-    "BookCats": "literature",
-    "BookID": "96404636",
-    "BookTitle": "جنة العبيط",
-    "AuthorID": "64904748",
-    "AuthorNam": "زكي نجيب محمود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1414ZakiNajibMahmud.JannatCabit.Hindawi96404636
+#META# Tags: literature
+#META# ID: 96404636
+#META# Title: جنة العبيط
+#META# AuthorID: 64904748
+#META# Author: زكي نجيب محمود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

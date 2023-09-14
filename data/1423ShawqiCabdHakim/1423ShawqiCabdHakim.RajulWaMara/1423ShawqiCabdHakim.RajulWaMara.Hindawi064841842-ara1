@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423ShawqiCabdHakim.RajulWaMara.Hindawi64841842",
-    "BookCats": "history :: literature",
-    "BookID": "64841842",
-    "BookTitle": "الرجل والمرأة في التراث الشعبي",
-    "AuthorID": "25792509",
-    "AuthorNam": "شوقي عبد الحكيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423ShawqiCabdHakim.RajulWaMara.Hindawi64841842
+#META# Tags: history :: literature
+#META# ID: 64841842
+#META# Title: الرجل والمرأة في التراث الشعبي
+#META# AuthorID: 25792509
+#META# Author: شوقي عبد الحكيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

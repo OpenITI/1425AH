@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.AmalWaAqdar.Hindawi90835903",
-    "BookCats": "novels",
-    "BookID": "90835903",
-    "BookTitle": "آمال وأقدار",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.AmalWaAqdar.Hindawi90835903
+#META# Tags: novels
+#META# ID: 90835903
+#META# Title: آمال وأقدار
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

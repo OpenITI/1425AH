@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423ShawqiCabdHakim.AmiraDhatHimma.Hindawi59495261",
-    "BookCats": "history :: literature",
-    "BookID": "59495261",
-    "BookTitle": "الأميرة ذات الهمة: أطول سيرة عربية في التاريخ",
-    "AuthorID": "25792509",
-    "AuthorNam": "شوقي عبد الحكيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423ShawqiCabdHakim.AmiraDhatHimma.Hindawi59495261
+#META# Tags: history :: literature
+#META# ID: 59495261
+#META# Title: الأميرة ذات الهمة: أطول سيرة عربية في التاريخ
+#META# AuthorID: 25792509
+#META# Author: شوقي عبد الحكيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

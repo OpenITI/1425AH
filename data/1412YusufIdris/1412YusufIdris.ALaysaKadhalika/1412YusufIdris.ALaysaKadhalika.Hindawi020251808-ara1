@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1412YusufIdris.ALaysaKadhalika.Hindawi20251808",
-    "BookCats": "novels",
-    "BookID": "20251808",
-    "BookTitle": "أليس كذلك",
-    "AuthorID": "95064085",
-    "AuthorNam": "يوسف إدريس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1412YusufIdris.ALaysaKadhalika.Hindawi20251808
+#META# Tags: novels
+#META# ID: 20251808
+#META# Title: أليس كذلك
+#META# AuthorID: 95064085
+#META# Author: يوسف إدريس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

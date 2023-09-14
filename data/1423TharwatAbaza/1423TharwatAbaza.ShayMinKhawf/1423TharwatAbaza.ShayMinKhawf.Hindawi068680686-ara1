@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.ShayMinKhawf.Hindawi68680686",
-    "BookCats": "novels",
-    "BookID": "68680686",
-    "BookTitle": "شيء من الخوف",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.ShayMinKhawf.Hindawi68680686
+#META# Tags: novels
+#META# ID: 68680686
+#META# Title: شيء من الخوف
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1414ZakiNajibMahmud.ThaqafatnaFiMuwajahatCasr.Hindawi20464862",
-    "BookCats": "philosophy",
-    "BookID": "20464862",
-    "BookTitle": "ثقافتنا في مواجهة العصر",
-    "AuthorID": "64904748",
-    "AuthorNam": "زكي نجيب محمود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1414ZakiNajibMahmud.ThaqafatnaFiMuwajahatCasr.Hindawi20464862
+#META# Tags: philosophy
+#META# ID: 20464862
+#META# Title: ثقافتنا في مواجهة العصر
+#META# AuthorID: 64904748
+#META# Author: زكي نجيب محمود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

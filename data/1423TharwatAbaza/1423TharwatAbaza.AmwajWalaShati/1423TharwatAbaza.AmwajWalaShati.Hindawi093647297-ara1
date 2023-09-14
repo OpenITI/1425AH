@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.AmwajWalaShati.Hindawi93647297",
-    "BookCats": "novels",
-    "BookID": "93647297",
-    "BookTitle": "أمواج ولا شاطئ",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.AmwajWalaShati.Hindawi93647297
+#META# Tags: novels
+#META# ID: 93647297
+#META# Title: أمواج ولا شاطئ
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

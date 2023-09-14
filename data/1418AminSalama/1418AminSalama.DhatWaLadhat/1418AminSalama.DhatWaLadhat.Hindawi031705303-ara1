@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1418AminSalama.DhatWaLadhat.Hindawi31705303",
-    "BookCats": "philosophy",
-    "BookID": "31705303",
-    "BookTitle": "الذات واللذات",
-    "AuthorID": "16952470",
-    "AuthorNam": "أمين سلامة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1418AminSalama.DhatWaLadhat.Hindawi31705303
+#META# Tags: philosophy
+#META# ID: 31705303
+#META# Title: الذات واللذات
+#META# AuthorID: 16952470
+#META# Author: أمين سلامة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

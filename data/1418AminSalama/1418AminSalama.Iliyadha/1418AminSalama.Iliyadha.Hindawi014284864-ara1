@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1418AminSalama.Iliyadha.Hindawi14284864",
-    "BookCats": "history :: poetry",
-    "BookID": "14284864",
-    "BookTitle": "الإليَاذة",
-    "AuthorID": "19291904",
-    "AuthorNam": "هوميروس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "16952470",
-    "TranslNam": "أمين سلامة",
-    "BookRel": "0001Homeros.Iliad (TRANSL)"
-}
-
+#META# URI: 1418AminSalama.Iliyadha.Hindawi14284864
+#META# Tags: history :: poetry
+#META# ID: 14284864
+#META# Title: الإليَاذة
+#META# AuthorID: 19291904
+#META# Author: هوميروس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 16952470
+#META# Translator: أمين سلامة
+#META# Related_books: 0001Homeros.Iliad (TRANSL)
 
 #META#Header#End#
 

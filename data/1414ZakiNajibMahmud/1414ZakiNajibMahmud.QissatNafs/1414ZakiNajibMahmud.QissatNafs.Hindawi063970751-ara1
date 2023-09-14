@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1414ZakiNajibMahmud.QissatNafs.Hindawi63970751",
-    "BookCats": "philosophy :: biographies :: novels",
-    "BookID": "63970751",
-    "BookTitle": "قصة نفس",
-    "AuthorID": "64904748",
-    "AuthorNam": "زكي نجيب محمود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1414ZakiNajibMahmud.QissatNafs.Hindawi63970751
+#META# Tags: philosophy :: biographies :: novels
+#META# ID: 63970751
+#META# Title: قصة نفس
+#META# AuthorID: 64904748
+#META# Author: زكي نجيب محمود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

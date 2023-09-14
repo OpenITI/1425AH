@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1414ZakiNajibMahmud.AthartuHurriyya.Hindawi39047590",
-    "BookCats": "history :: biographies",
-    "BookID": "39047590",
-    "BookTitle": "آثرت الحرية",
-    "AuthorID": "20797514",
-    "AuthorNam": "فيكتور كرافتشنكو",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "64904748 :: 62820630",
-    "TranslNam": "زكي نجيب محمود :: محمد بدران",
-    "BookRel": "1385ViktorKravchenko.IChoseFreedom (TRANSL)"
-}
-
+#META# URI: 1414ZakiNajibMahmud.AthartuHurriyya.Hindawi39047590
+#META# Tags: history :: biographies
+#META# ID: 39047590
+#META# Title: آثرت الحرية
+#META# AuthorID: 20797514
+#META# Author: فيكتور كرافتشنكو
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 64904748 :: 62820630
+#META# Translator: زكي نجيب محمود :: محمد بدران
+#META# Related_books: 1385ViktorKravchenko.IChoseFreedom (TRANSL)
 
 #META#Header#End#
 

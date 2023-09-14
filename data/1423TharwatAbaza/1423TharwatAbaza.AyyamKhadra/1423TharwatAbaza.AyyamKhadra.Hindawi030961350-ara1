@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.AyyamKhadra.Hindawi30961350",
-    "BookCats": "literature",
-    "BookID": "30961350",
-    "BookTitle": "الأيام الخضراء",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.AyyamKhadra.Hindawi30961350
+#META# Tags: literature
+#META# ID: 30961350
+#META# Title: الأيام الخضراء
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

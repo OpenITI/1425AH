@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.MinAqasisCarab.Hindawi61492425",
-    "BookCats": "literature",
-    "BookID": "61492425",
-    "BookTitle": "من أقاصيص العرب: تمثيليات إذاعية",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.MinAqasisCarab.Hindawi61492425
+#META# Tags: literature
+#META# ID: 61492425
+#META# Title: من أقاصيص العرب: تمثيليات إذاعية
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

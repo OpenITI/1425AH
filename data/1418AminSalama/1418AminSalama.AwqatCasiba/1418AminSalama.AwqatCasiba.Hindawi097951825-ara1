@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1418AminSalama.AwqatCasiba.Hindawi97951825",
-    "BookCats": "novels",
-    "BookID": "97951825",
-    "BookTitle": "أوقات عصيبة",
-    "AuthorID": "14791716",
-    "AuthorNam": "تشارلز ديكنز",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "16952470",
-    "TranslNam": "أمين سلامة",
-    "BookRel": "1286CharlesDickens.HardTimes (TRANSL)"
-}
-
+#META# URI: 1418AminSalama.AwqatCasiba.Hindawi97951825
+#META# Tags: novels
+#META# ID: 97951825
+#META# Title: أوقات عصيبة
+#META# AuthorID: 14791716
+#META# Author: تشارلز ديكنز
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 16952470
+#META# Translator: أمين سلامة
+#META# Related_books: 1286CharlesDickens.HardTimes (TRANSL)
 
 #META#Header#End#
 

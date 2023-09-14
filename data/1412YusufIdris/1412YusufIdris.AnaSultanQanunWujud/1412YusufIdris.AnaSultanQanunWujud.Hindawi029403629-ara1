@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1412YusufIdris.AnaSultanQanunWujud.Hindawi29403629",
-    "BookCats": "literature",
-    "BookID": "29403629",
-    "BookTitle": "أنا سلطان قانون الوجود",
-    "AuthorID": "95064085",
-    "AuthorNam": "يوسف إدريس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1412YusufIdris.AnaSultanQanunWujud.Hindawi29403629
+#META# Tags: literature
+#META# ID: 29403629
+#META# Title: أنا سلطان قانون الوجود
+#META# AuthorID: 95064085
+#META# Author: يوسف إدريس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

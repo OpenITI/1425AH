@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1412YusufIdris.Farafir.Hindawi19253059",
-    "BookCats": "plays",
-    "BookID": "19253059",
-    "BookTitle": "الفرافير",
-    "AuthorID": "95064085",
-    "AuthorNam": "يوسف إدريس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1412YusufIdris.Farafir.Hindawi19253059
+#META# Tags: plays
+#META# ID: 19253059
+#META# Title: الفرافير
+#META# AuthorID: 95064085
+#META# Author: يوسف إدريس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

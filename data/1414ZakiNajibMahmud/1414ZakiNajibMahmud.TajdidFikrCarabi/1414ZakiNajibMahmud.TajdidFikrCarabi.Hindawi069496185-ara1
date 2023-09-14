@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1414ZakiNajibMahmud.TajdidFikrCarabi.Hindawi69496185",
-    "BookCats": "philosophy",
-    "BookID": "69496185",
-    "BookTitle": "تجديد الفكر العربي",
-    "AuthorID": "64904748",
-    "AuthorNam": "زكي نجيب محمود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1414ZakiNajibMahmud.TajdidFikrCarabi.Hindawi69496185
+#META# Tags: philosophy
+#META# ID: 69496185
+#META# Title: تجديد الفكر العربي
+#META# AuthorID: 64904748
+#META# Author: زكي نجيب محمود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

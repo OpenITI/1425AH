@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1413MuhammadHasanZayyat.MaBacdAyyam.Hindawi90797364",
-    "BookCats": "biographies",
-    "BookID": "90797364",
-    "BookTitle": "ما بعد الأيام",
-    "AuthorID": "40971414",
-    "AuthorNam": "محمد حسن الزيات",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1413MuhammadHasanZayyat.MaBacdAyyam.Hindawi90797364
+#META# Tags: biographies
+#META# ID: 90797364
+#META# Title: ما بعد الأيام
+#META# AuthorID: 40971414
+#META# Author: محمد حسن الزيات
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

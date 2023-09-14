@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1418AminSalama.MisrFiKhatiri.Hindawi95095863",
-    "BookCats": "literature",
-    "BookID": "95095863",
-    "BookTitle": "مصر التي في خاطري",
-    "AuthorID": "16952470",
-    "AuthorNam": "أمين سلامة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1418AminSalama.MisrFiKhatiri.Hindawi95095863
+#META# Tags: literature
+#META# ID: 95095863
+#META# Title: مصر التي في خاطري
+#META# AuthorID: 16952470
+#META# Author: أمين سلامة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

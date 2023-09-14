@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1412YusufIdris.CatbCalaNazar.Hindawi58031462",
-    "BookCats": "literature",
-    "BookID": "58031462",
-    "BookTitle": "العتب على النظر",
-    "AuthorID": "95064085",
-    "AuthorNam": "يوسف إدريس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1412YusufIdris.CatbCalaNazar.Hindawi58031462
+#META# Tags: literature
+#META# ID: 58031462
+#META# Title: العتب على النظر
+#META# AuthorID: 95064085
+#META# Author: يوسف إدريس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

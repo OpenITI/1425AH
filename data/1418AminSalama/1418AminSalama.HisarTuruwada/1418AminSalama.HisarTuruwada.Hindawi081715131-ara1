@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1418AminSalama.HisarTuruwada.Hindawi81715131",
-    "BookCats": "novels",
-    "BookID": "81715131",
-    "BookTitle": "حصار طروادة: من الإلياذة لهوميروس",
-    "AuthorID": "16952470",
-    "AuthorNam": "أمين سلامة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1418AminSalama.HisarTuruwada.Hindawi81715131
+#META# Tags: novels
+#META# ID: 81715131
+#META# Title: حصار طروادة: من الإلياذة لهوميروس
+#META# AuthorID: 16952470
+#META# Author: أمين سلامة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

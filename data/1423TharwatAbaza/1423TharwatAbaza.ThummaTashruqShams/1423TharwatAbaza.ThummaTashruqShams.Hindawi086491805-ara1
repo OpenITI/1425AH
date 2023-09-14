@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.ThummaTashruqShams.Hindawi86491805",
-    "BookCats": "novels",
-    "BookID": "86491805",
-    "BookTitle": "ثم تشرق الشمس",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.ThummaTashruqShams.Hindawi86491805
+#META# Tags: novels
+#META# ID: 86491805
+#META# Title: ثم تشرق الشمس
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

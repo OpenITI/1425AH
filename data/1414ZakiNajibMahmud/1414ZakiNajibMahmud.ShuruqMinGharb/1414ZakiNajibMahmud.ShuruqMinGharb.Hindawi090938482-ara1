@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1414ZakiNajibMahmud.ShuruqMinGharb.Hindawi90938482",
-    "BookCats": "philosophy :: literature",
-    "BookID": "90938482",
-    "BookTitle": "شروق من الغرب",
-    "AuthorID": "64904748",
-    "AuthorNam": "زكي نجيب محمود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1414ZakiNajibMahmud.ShuruqMinGharb.Hindawi90938482
+#META# Tags: philosophy :: literature
+#META# ID: 90938482
+#META# Title: شروق من الغرب
+#META# AuthorID: 64904748
+#META# Author: زكي نجيب محمود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

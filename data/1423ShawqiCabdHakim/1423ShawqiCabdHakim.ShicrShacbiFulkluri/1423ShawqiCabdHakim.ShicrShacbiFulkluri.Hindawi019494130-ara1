@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423ShawqiCabdHakim.ShicrShacbiFulkluri.Hindawi19494130",
-    "BookCats": "literature",
-    "BookID": "19494130",
-    "BookTitle": "الشعر الشعبي الفولكلوري: دراسة ونماذج",
-    "AuthorID": "25792509",
-    "AuthorNam": "شوقي عبد الحكيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423ShawqiCabdHakim.ShicrShacbiFulkluri.Hindawi19494130
+#META# Tags: literature
+#META# ID: 19494130
+#META# Title: الشعر الشعبي الفولكلوري: دراسة ونماذج
+#META# AuthorID: 25792509
+#META# Author: شوقي عبد الحكيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

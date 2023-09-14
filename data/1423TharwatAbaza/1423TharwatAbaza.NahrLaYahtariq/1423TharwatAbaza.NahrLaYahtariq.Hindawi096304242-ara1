@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.NahrLaYahtariq.Hindawi96304242",
-    "BookCats": "novels",
-    "BookID": "96304242",
-    "BookTitle": "النهر لا يحترق",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.NahrLaYahtariq.Hindawi96304242
+#META# Tags: novels
+#META# ID: 96304242
+#META# Title: النهر لا يحترق
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

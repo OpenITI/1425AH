@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1414ZakiNajibMahmud.CanHurriyya.Hindawi61570868",
-    "BookCats": "philosophy",
-    "BookID": "61570868",
-    "BookTitle": "عن الحرية أتحدث",
-    "AuthorID": "64904748",
-    "AuthorNam": "زكي نجيب محمود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1414ZakiNajibMahmud.CanHurriyya.Hindawi61570868
+#META# Tags: philosophy
+#META# ID: 61570868
+#META# Title: عن الحرية أتحدث
+#META# AuthorID: 64904748
+#META# Author: زكي نجيب محمود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

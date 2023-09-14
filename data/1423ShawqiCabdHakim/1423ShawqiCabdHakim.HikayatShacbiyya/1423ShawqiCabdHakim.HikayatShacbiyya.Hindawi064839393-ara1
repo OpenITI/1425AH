@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423ShawqiCabdHakim.HikayatShacbiyya.Hindawi64839393",
-    "BookCats": "literature",
-    "BookID": "64839393",
-    "BookTitle": "الحكايات الشعبية العربية",
-    "AuthorID": "25792509",
-    "AuthorNam": "شوقي عبد الحكيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423ShawqiCabdHakim.HikayatShacbiyya.Hindawi64839393
+#META# Tags: literature
+#META# ID: 64839393
+#META# Title: الحكايات الشعبية العربية
+#META# AuthorID: 25792509
+#META# Author: شوقي عبد الحكيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

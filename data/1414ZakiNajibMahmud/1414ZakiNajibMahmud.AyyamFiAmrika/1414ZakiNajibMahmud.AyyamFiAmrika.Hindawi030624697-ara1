@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1414ZakiNajibMahmud.AyyamFiAmrika.Hindawi30624697",
-    "BookCats": "biographies",
-    "BookID": "30624697",
-    "BookTitle": "أيام في أمريكا",
-    "AuthorID": "64904748",
-    "AuthorNam": "زكي نجيب محمود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1414ZakiNajibMahmud.AyyamFiAmrika.Hindawi30624697
+#META# Tags: biographies
+#META# ID: 30624697
+#META# Title: أيام في أمريكا
+#META# AuthorID: 64904748
+#META# Author: زكي نجيب محمود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

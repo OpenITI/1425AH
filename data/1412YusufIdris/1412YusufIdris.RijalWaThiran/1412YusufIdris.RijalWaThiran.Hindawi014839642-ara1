@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1412YusufIdris.RijalWaThiran.Hindawi14839642",
-    "BookCats": "literature :: novels",
-    "BookID": "14839642",
-    "BookTitle": "رجال وثيران",
-    "AuthorID": "95064085",
-    "AuthorNam": "يوسف إدريس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1412YusufIdris.RijalWaThiran.Hindawi14839642
+#META# Tags: literature :: novels
+#META# ID: 14839642
+#META# Title: رجال وثيران
+#META# AuthorID: 95064085
+#META# Author: يوسف إدريس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

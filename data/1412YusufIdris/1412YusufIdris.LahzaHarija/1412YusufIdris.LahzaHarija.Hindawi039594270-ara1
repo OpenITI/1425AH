@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1412YusufIdris.LahzaHarija.Hindawi39594270",
-    "BookCats": "plays",
-    "BookID": "39594270",
-    "BookTitle": "اللحظة الحرجة",
-    "AuthorID": "95064085",
-    "AuthorNam": "يوسف إدريس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1412YusufIdris.LahzaHarija.Hindawi39594270
+#META# Tags: plays
+#META# ID: 39594270
+#META# Title: اللحظة الحرجة
+#META# AuthorID: 95064085
+#META# Author: يوسف إدريس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

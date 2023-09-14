@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1414ZakiNajibMahmud.BudhurWaJudhur.Hindawi50397947",
-    "BookCats": "philosophy",
-    "BookID": "50397947",
-    "BookTitle": "بذور وجذور",
-    "AuthorID": "64904748",
-    "AuthorNam": "زكي نجيب محمود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1414ZakiNajibMahmud.BudhurWaJudhur.Hindawi50397947
+#META# Tags: philosophy
+#META# ID: 50397947
+#META# Title: بذور وجذور
+#META# AuthorID: 64904748
+#META# Author: زكي نجيب محمود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1414ZakiNajibMahmud.KumidiyaArdiyya.Hindawi83848406",
-    "BookCats": "literature",
-    "BookID": "83848406",
-    "BookTitle": "الكوميديا الأرضية",
-    "AuthorID": "64904748",
-    "AuthorNam": "زكي نجيب محمود",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1414ZakiNajibMahmud.KumidiyaArdiyya.Hindawi83848406
+#META# Tags: literature
+#META# ID: 83848406
+#META# Title: الكوميديا الأرضية
+#META# AuthorID: 64904748
+#META# Author: زكي نجيب محمود
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

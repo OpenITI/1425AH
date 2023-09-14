@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1412YusufIdris.IslamBilaDifaf.Hindawi42048057",
-    "BookCats": "literature",
-    "BookID": "42048057",
-    "BookTitle": "إسلام بلا ضفاف",
-    "AuthorID": "95064085",
-    "AuthorNam": "يوسف إدريس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1412YusufIdris.IslamBilaDifaf.Hindawi42048057
+#META# Tags: literature
+#META# ID: 42048057
+#META# Title: إسلام بلا ضفاف
+#META# AuthorID: 95064085
+#META# Author: يوسف إدريس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

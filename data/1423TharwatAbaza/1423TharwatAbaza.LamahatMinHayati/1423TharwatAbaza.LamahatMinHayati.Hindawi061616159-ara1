@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.LamahatMinHayati.Hindawi61616159",
-    "BookCats": "biographies",
-    "BookID": "61616159",
-    "BookTitle": "لمحات من حياتي: سيرة شبه ذاتية",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.LamahatMinHayati.Hindawi61616159
+#META# Tags: biographies
+#META# ID: 61616159
+#META# Title: لمحات من حياتي: سيرة شبه ذاتية
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

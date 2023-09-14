@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423ShawqiCabdHakim.ShafiqaWaMutawalli.Hindawi60638094",
-    "BookCats": "novels",
-    "BookID": "60638094",
-    "BookTitle": "شفيقة ومتولي",
-    "AuthorID": "25792509",
-    "AuthorNam": "شوقي عبد الحكيم",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423ShawqiCabdHakim.ShafiqaWaMutawalli.Hindawi60638094
+#META# Tags: novels
+#META# ID: 60638094
+#META# Title: شفيقة ومتولي
+#META# AuthorID: 25792509
+#META# Author: شوقي عبد الحكيم
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

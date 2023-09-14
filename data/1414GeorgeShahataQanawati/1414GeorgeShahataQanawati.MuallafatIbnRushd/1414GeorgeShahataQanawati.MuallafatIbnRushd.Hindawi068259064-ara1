@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1414GeorgeShahataQanawati.MuallafatIbnRushd.Hindawi68259064",
-    "BookCats": "biographies :: philosophy",
-    "BookID": "68259064",
-    "BookTitle": "مؤلفات ابن رشد",
-    "AuthorID": "47168693",
-    "AuthorNam": "جورج شحاتة قنواتي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1414GeorgeShahataQanawati.MuallafatIbnRushd.Hindawi68259064
+#META# Tags: biographies :: philosophy
+#META# ID: 68259064
+#META# Title: مؤلفات ابن رشد
+#META# AuthorID: 47168693
+#META# Author: جورج شحاتة قنواتي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

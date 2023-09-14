@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1418AminSalama.Udisa.Hindawi53174061",
-    "BookCats": "history :: literature",
-    "BookID": "53174061",
-    "BookTitle": "الأوديسة",
-    "AuthorID": "19291904",
-    "AuthorNam": "هوميروس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "16952470",
-    "TranslNam": "أمين سلامة",
-    "BookRel": "0001Homeros.Odysseia (TRANSL)"
-}
-
+#META# URI: 1418AminSalama.Udisa.Hindawi53174061
+#META# Tags: history :: literature
+#META# ID: 53174061
+#META# Title: الأوديسة
+#META# AuthorID: 19291904
+#META# Author: هوميروس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 16952470
+#META# Translator: أمين سلامة
+#META# Related_books: 0001Homeros.Odysseia (TRANSL)
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1414ZakiNajibMahmud.QissatFalsafaHaditha.Hindawi14046425",
-    "BookCats": "philosophy",
-    "BookID": "14046425",
-    "BookTitle": "قصة الفلسفة الحديثة",
-    "AuthorID": "64904748 :: 20953090",
-    "AuthorNam": "زكي نجيب محمود :: أحمد أمين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1414ZakiNajibMahmud.QissatFalsafaHaditha.Hindawi14046425
+#META# Tags: philosophy
+#META# ID: 14046425
+#META# Title: قصة الفلسفة الحديثة
+#META# AuthorID: 64904748 :: 20953090
+#META# Author: زكي نجيب محمود :: أحمد أمين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

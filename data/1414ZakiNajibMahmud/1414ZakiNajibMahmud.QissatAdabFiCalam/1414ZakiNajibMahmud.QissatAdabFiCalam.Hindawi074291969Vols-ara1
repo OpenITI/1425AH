@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1414ZakiNajibMahmud.QissatAdabFiCalam01.Hindawi74291969",
-    "BookCats": "literature :: history",
-    "BookID": "74291969",
-    "BookTitle": "قصة الأدب في العالم (الجزء الأول)",
-    "AuthorID": "64904748 :: 20953090",
-    "AuthorNam": "زكي نجيب محمود :: أحمد أمين",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1414ZakiNajibMahmud.QissatAdabFiCalam01.Hindawi74291969
+#META# Tags: literature :: history
+#META# ID: 74291969
+#META# Title: قصة الأدب في العالم (الجزء الأول)
+#META# AuthorID: 64904748 :: 20953090
+#META# Author: زكي نجيب محمود :: أحمد أمين
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

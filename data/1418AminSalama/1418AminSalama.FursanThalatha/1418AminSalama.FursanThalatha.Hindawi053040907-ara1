@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1418AminSalama.FursanThalatha.Hindawi53040907",
-    "BookCats": "novels",
-    "BookID": "53040907",
-    "BookTitle": "الفُرسان الثلاثة",
-    "AuthorID": "26064860",
-    "AuthorNam": "ألكسندر ديماس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "16952470",
-    "TranslNam": "أمين سلامة",
-    "BookRel": "1287AlexandreDumas.TroisMousquetaires (TRANSL)"
-}
-
+#META# URI: 1418AminSalama.FursanThalatha.Hindawi53040907
+#META# Tags: novels
+#META# ID: 53040907
+#META# Title: الفُرسان الثلاثة
+#META# AuthorID: 26064860
+#META# Author: ألكسندر ديماس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 16952470
+#META# Translator: أمين سلامة
+#META# Related_books: 1287AlexandreDumas.TroisMousquetaires (TRANSL)
 
 #META#Header#End#
 

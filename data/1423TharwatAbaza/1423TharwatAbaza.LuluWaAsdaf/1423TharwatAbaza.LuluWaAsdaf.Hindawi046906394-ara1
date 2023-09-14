@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.LuluWaAsdaf.Hindawi46906394",
-    "BookCats": "novels",
-    "BookID": "46906394",
-    "BookTitle": "لؤلؤ وأصداف",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.LuluWaAsdaf.Hindawi46906394
+#META# Tags: novels
+#META# ID: 46906394
+#META# Title: لؤلؤ وأصداف
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

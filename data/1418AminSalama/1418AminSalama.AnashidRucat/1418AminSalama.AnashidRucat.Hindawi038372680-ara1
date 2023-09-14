@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1418AminSalama.AnashidRucat.Hindawi38372680",
-    "BookCats": "poetry",
-    "BookID": "38372680",
-    "BookTitle": "أناشيد الرعاة",
-    "AuthorID": "49475952",
-    "AuthorNam": "فيرجيل",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "16952470",
-    "TranslNam": "أمين سلامة",
-    "BookRel": "0001Virgilius.Bucolica (TRANSL)"
-}
-
+#META# URI: 1418AminSalama.AnashidRucat.Hindawi38372680
+#META# Tags: poetry
+#META# ID: 38372680
+#META# Title: أناشيد الرعاة
+#META# AuthorID: 49475952
+#META# Author: فيرجيل
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 16952470
+#META# Translator: أمين سلامة
+#META# Related_books: 0001Virgilius.Bucolica (TRANSL)
 
 #META#Header#End#
 

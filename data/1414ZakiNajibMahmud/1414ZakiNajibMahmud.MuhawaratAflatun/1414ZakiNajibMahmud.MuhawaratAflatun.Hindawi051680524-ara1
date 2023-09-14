@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1414ZakiNajibMahmud.MuhawaratAflatun.Hindawi51680524",
-    "BookCats": "philosophy",
-    "BookID": "51680524",
-    "BookTitle": "محاورات أفلاطون: أوطيفرون – الدفاع – أقريطون – فيدون",
-    "AuthorID": "74625860",
-    "AuthorNam": "أفلاطون",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "64904748",
-    "TranslNam": "زكي نجيب محمود",
-    "BookRel": "0001Plato (TRANSL)"
-}
-
+#META# URI: 1414ZakiNajibMahmud.MuhawaratAflatun.Hindawi51680524
+#META# Tags: philosophy
+#META# ID: 51680524
+#META# Title: محاورات أفلاطون: أوطيفرون – الدفاع – أقريطون – فيدون
+#META# AuthorID: 74625860
+#META# Author: أفلاطون
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 64904748
+#META# Translator: زكي نجيب محمود
+#META# Related_books: 0001Plato (TRANSL)
 
 #META#Header#End#
 

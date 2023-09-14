@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.WaBaqiyaShay.Hindawi14961853",
-    "BookCats": "literature",
-    "BookID": "14961853",
-    "BookTitle": "وبقي شيء",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.WaBaqiyaShay.Hindawi14961853
+#META# Tags: literature
+#META# ID: 14961853
+#META# Title: وبقي شيء
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

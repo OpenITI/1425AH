@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.DhikrayatBacida.Hindawi60907516",
-    "BookCats": "literature",
-    "BookID": "60907516",
-    "BookTitle": "ذكريات بعيدة",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.DhikrayatBacida.Hindawi60907516
+#META# Tags: literature
+#META# ID: 60907516
+#META# Title: ذكريات بعيدة
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

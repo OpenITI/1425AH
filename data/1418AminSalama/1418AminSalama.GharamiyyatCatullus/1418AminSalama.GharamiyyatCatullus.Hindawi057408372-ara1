@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1418AminSalama.GharamiyyatCatullus.Hindawi57408372",
-    "BookCats": "poetry",
-    "BookID": "57408372",
-    "BookTitle": "غراميات كاتولوس: فِطَحل شعراء الغزل الرومان",
-    "AuthorID": "16952470",
-    "AuthorNam": "أمين سلامة #جمع وترجمة#",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "0001Catullus (TRANSL)"
-}
-
+#META# URI: 1418AminSalama.GharamiyyatCatullus.Hindawi57408372
+#META# Tags: poetry
+#META# ID: 57408372
+#META# Title: غراميات كاتولوس: فِطَحل شعراء الغزل الرومان
+#META# AuthorID: 16952470
+#META# Author: أمين سلامة #جمع وترجمة#
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: 0001Catullus (TRANSL)
 
 #META#Header#End#
 

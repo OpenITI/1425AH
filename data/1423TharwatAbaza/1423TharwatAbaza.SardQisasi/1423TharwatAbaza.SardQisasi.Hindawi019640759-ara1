@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1423TharwatAbaza.SardQisasi.Hindawi19640759",
-    "BookCats": "novels",
-    "BookID": "19640759",
-    "BookTitle": "السرد القصصي في القرآن الكريم",
-    "AuthorID": "63071907",
-    "AuthorNam": "ثروت أباظة",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1423TharwatAbaza.SardQisasi.Hindawi19640759
+#META# Tags: novels
+#META# ID: 19640759
+#META# Title: السرد القصصي في القرآن الكريم
+#META# AuthorID: 63071907
+#META# Author: ثروت أباظة
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

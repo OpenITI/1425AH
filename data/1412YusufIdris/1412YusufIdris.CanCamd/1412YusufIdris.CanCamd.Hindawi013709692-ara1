@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1412YusufIdris.CanCamd.Hindawi13709692",
-    "BookCats": "literature",
-    "BookID": "13709692",
-    "BookTitle": "عن عمد … اسمع تسمع‎",
-    "AuthorID": "95064085",
-    "AuthorNam": "يوسف إدريس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1412YusufIdris.CanCamd.Hindawi13709692
+#META# Tags: literature
+#META# ID: 13709692
+#META# Title: عن عمد … اسمع تسمع‎
+#META# AuthorID: 95064085
+#META# Author: يوسف إدريس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

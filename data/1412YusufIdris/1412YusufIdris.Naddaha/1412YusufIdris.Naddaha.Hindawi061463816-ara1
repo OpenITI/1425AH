@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1412YusufIdris.Naddaha.Hindawi61463816",
-    "BookCats": "literature",
-    "BookID": "61463816",
-    "BookTitle": "النَّدَّاهة‎",
-    "AuthorID": "95064085",
-    "AuthorNam": "يوسف إدريس",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1412YusufIdris.Naddaha.Hindawi61463816
+#META# Tags: literature
+#META# ID: 61463816
+#META# Title: النَّدَّاهة‎
+#META# AuthorID: 95064085
+#META# Author: يوسف إدريس
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 

@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1414ZakiNajibMahmud.FununAdab.Hindawi53957094",
-    "BookCats": "literature",
-    "BookID": "53957094",
-    "BookTitle": "فنون الأدب",
-    "AuthorID": "16149593",
-    "AuthorNam": "ﻫ‎. ب. تشارلتن",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "64904748",
-    "TranslNam": "زكي نجيب محمود",
-    "BookRel": "1375HenryBuckleyCharlton.ArtOfLiteraryStudy (TRANSL)"
-}
-
+#META# URI: 1414ZakiNajibMahmud.FununAdab.Hindawi53957094
+#META# Tags: literature
+#META# ID: 53957094
+#META# Title: فنون الأدب
+#META# AuthorID: 16149593
+#META# Author: ﻫ‎. ب. تشارلتن
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: 64904748
+#META# Translator: زكي نجيب محمود
+#META# Related_books: 1375HenryBuckleyCharlton.ArtOfLiteraryStudy (TRANSL)
 
 #META#Header#End#
 
